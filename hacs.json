@@ -1,8 +1,9 @@
 {
   "name": "Hisense Local AEH",
-  "content_in_root": false,
-  "domains": ["climate"],
-  "country": "sk",
-  "homeassistant": "2023.0.0",
-  "render_readme": true
+  "domain": "hisense_local_aeh",
+  "documentation": "https://github.com/drak202/hisense_local_aeh",
+  "codeowners": ["@drak202"],
+  "requirements": [],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
 }
