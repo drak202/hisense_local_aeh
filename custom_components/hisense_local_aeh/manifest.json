@@ -1,0 +1,10 @@
+{
+  "domain": "hisense_local_aeh",
+  "name": "Hisense Local AEH",
+  "version": "1.0.0",
+  "documentation": "https://github.com/drak202/hisense_local_aeh",
+  "dependencies": [],
+  "codeowners": ["@drak202"],
+  "requirements": ["pyaehw4a1"],
+  "iot_class": "local_polling"
+}
