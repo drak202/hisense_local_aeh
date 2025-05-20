@@ -1,3 +1,1 @@
-# __init__.py
-
-DOMAIN = 'hisense_local_aeh'
+# Init for hisense_local_aeh

@@ -1,3 +1,1 @@
-# climate.py
-
-# Placeholder for climate platform logic
+# Climate platform for Hisense AEH
