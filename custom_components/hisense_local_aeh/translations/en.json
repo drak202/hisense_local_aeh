@@ -1,1 +1,13 @@
-{ "title": "Hisense Local AEH" }
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Hisense Local AEH",
+        "data": {
+          "host": "Host",
+          "name": "Name"
+        }
+      }
+    }
+  }
+}
